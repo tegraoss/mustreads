@@ -23,5 +23,6 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 - [Python para Desenvolvedores (Luiz Eduardo Borges)](http://novatec.com.br/livros/pythondesenvolvedores/)
 - [Scalable Internet Architectures (Theo Schlossnagle)](http://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X)
 - [Scrum e XP direto das Trincheiras (Henrik Kniberg)](https://www.cti.ufu.br/sites/cti.ufu.br/files/scrum-e-xp-direto-das-trincheiras.pdf)
+- [The Design of Everyday Things (Donald Norman)](http://www.amazon.com/gp/product/0465050654/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687582&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1452654123&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=07K2C14C7NTT9RSQNQ93)
 - [The Mythical Man-Month: Essays on Software Engineering (Frederick P. Brooks)](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
 - [The Pragmatic Programmer: From Journeyman to Master (Andrew Hunt & Dave Thomas)](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
