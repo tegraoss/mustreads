@@ -14,6 +14,7 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 - [Desenvolvimento Mobile com Android (K19 Treinamentos)](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 - [Dive Into HTML5 (Mark Pilgrim)](http://diveintohtml5.info/)
 - [Domain Driven Design: Tackling Complexity in the Heart of Software (Eric Evans)](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Expressões Regulares - Uma Abordagem Divertida](http://novatec.com.br/livros/expressoesregulares4/)
 - [Extreme Programming Explained: Embrace Change (Kent Beck and Cynthia Andres)](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
 - [Implementing Domain-Driven Design (Vaughn Vernon)](http://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
 - [Java e Orientação a Objetos (Caelum)](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
