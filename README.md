@@ -11,6 +11,7 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 ### Indicações
 - [Clean Code (Robert Cecil Martin)](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Desenv. Ágil para Web com Ruby on Rails (Caelum)](https://www.caelum.com.br/apostila-ruby-on-rails/)
+- [Desenvolvimento de Software Orientado a Objetos, Guiado por Testes (Steve Freeman)](http://www.buscape.com.br/desenvolvimento-de-software-orientado-a-objetos-guiado-por-testes-steve-freeman-nat-pryce-8576087685.html)
 - [Desenvolvimento Mobile com Android (K19 Treinamentos)](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 - [Dive Into HTML5 (Mark Pilgrim)](http://diveintohtml5.info/)
 - [Domain Driven Design: Tackling Complexity in the Heart of Software (Eric Evans)](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
