@@ -17,6 +17,7 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 - [Domain Driven Design: Tackling Complexity in the Heart of Software (Eric Evans)](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Expressões Regulares - Uma Abordagem Divertida](http://novatec.com.br/livros/expressoesregulares4/)
 - [Extreme Programming Explained: Embrace Change (Kent Beck and Cynthia Andres)](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+- [Here are the 50 best HackerNews posts ever (Joe MacNeil)](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)
 - [Implementing Domain-Driven Design (Vaughn Vernon)](http://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
 - [Java e Orientação a Objetos (Caelum)](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 - [Java para Desenvolvimento Web (Caelum)](https://www.caelum.com.br/apostila-java-web/)
