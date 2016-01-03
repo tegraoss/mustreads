@@ -15,6 +15,7 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 - [Desenvolvimento Mobile com Android (K19 Treinamentos)](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 - [Dive Into HTML5 (Mark Pilgrim)](http://diveintohtml5.info/)
 - [Domain Driven Design: Tackling Complexity in the Heart of Software (Eric Evans)](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Epigrams in Programming (Alan Perils)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [Expressões Regulares - Uma Abordagem Divertida](http://novatec.com.br/livros/expressoesregulares4/)
 - [Extreme Programming Explained: Embrace Change (Kent Beck and Cynthia Andres)](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
 - [Here are the 50 best HackerNews posts ever (Joe MacNeil)](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)
