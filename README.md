@@ -27,6 +27,7 @@ Aqui você encontra as melhores leituras recomendadas pelo pessoal da Tegra.
 - [Patterns of Enterprise Application Architecture (Martin Fowler)](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - [PHP Do Jeito Certo (Josh Lockhart)](http://br.phptherightway.com/)
 - [Python para Desenvolvedores (Luiz Eduardo Borges)](http://novatec.com.br/livros/pythondesenvolvedores/)
+- [Refatoração Para Padrões (Joshua Kerievsky)](http://www.buscape.com.br/refatoracao-para-padroes-joshua-kerievsky-8577802442.html)
 - [Scalable Internet Architectures (Theo Schlossnagle)](http://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X)
 - [Scrum e XP direto das Trincheiras (Henrik Kniberg)](https://www.cti.ufu.br/sites/cti.ufu.br/files/scrum-e-xp-direto-das-trincheiras.pdf)
 - [The Design of Everyday Things (Donald Norman)](http://www.amazon.com/gp/product/0465050654/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687582&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1452654123&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=07K2C14C7NTT9RSQNQ93)
